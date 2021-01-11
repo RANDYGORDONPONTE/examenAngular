@@ -5,7 +5,7 @@ import { ContactoRoutingModule } from './contacto-routing.module';
 
 
 @NgModule({
-  declarations: [],
+  declarations: [ContactopageComponent],
   imports: [
     CommonModule,
     ContactoRoutingModule
